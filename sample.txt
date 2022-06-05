@@ -1,0 +1,2 @@
+Sample text.
+Here is some new text on the 'explore_sample' branch.
